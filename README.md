@@ -8,7 +8,7 @@ Inspired by [Adagia](https://readadagia.com). Marginalia is an independent proje
 
 **Private test build: v1.99, build 13.** There is no store release. This repository contains source code and the Gradle wrapper, not APKs, demo media or release assets. Emulator checks are not evidence of physical-phone performance; no physical-device frame-rate or compatibility guarantee is made.
 
-The working anthology contains 1,643 passages attributed to 95 thinkers, with a 316-passage selected-maxims subset. These are Marginalia's own current data counts. **The full anthology is not cleared for public redistribution.** Modern works and translations need further review; see [QUOTE-RIGHTS.md](QUOTE-RIGHTS.md). Keep this repository private until that review and owner approval are complete.
+The working anthology contains 1,643 passages attributed to 95 thinkers, with a 316-passage selected-maxims subset. These are Marginalia's own current data counts. **The full anthology is not cleared for public redistribution.** Modern works and translations need further review; see [QUOTE-RIGHTS.md](QUOTE-RIGHTS.md). The owner has approved public source visibility; that does not establish redistribution rights for the anthology.
 
 ## What it does
 

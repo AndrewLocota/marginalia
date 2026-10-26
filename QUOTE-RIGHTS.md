@@ -1,6 +1,6 @@
 # Quote redistribution review
 
-Reviewed 26 October 2026. **Publication blocker: the complete anthology is not cleared for public redistribution.** This is a rights triage, not a legal clearance opinion. The repository must remain private pending the owner's decision and a defensible rights basis for every retained passage.
+Reviewed 26 October 2026. **The complete anthology is not cleared for public redistribution.** This is a rights triage, not a legal clearance opinion. The owner approved public repository visibility on 26 October 2026. That decision does not establish a rights basis for the retained passages.
 
 The MIT licence applies to original app code, not quotations, translations, publisher excerpts, or third-party notices. A source URL, an attribution, a short quotation, a publicly viewable publisher sample, or an original editorial translation does not by itself grant redistribution rights.
 
@@ -23,4 +23,4 @@ The bundled JSON has 1,643 entries from 95 attributed thinkers. All entries have
 
 For each entry, record a verified public-domain basis for relevant territories, an explicit compatible licence, documented permission, or a specifically reviewed quotation-exception basis. Otherwise exclude the text from the public source, including copies in history, scripts and editorial files. Citation metadata alone can be retained where appropriate. A reduced, verified historical collection is the conservative route; it would change the published quote count and requires corresponding README/app/demo copy changes.
 
-Do not merely delete uncertain texts in a later commit and then make this repository public: old commits still contain them. Prepare a clean public history after the retained corpus is approved. The private source snapshot includes the current anthology for review; it is not permission to publish that anthology.
+Do not merely delete uncertain texts in a later commit and then make this repository public: old commits still contain them. Prepare a clean public history after the retained corpus is approved. The source snapshot includes the current anthology for review; public visibility does not grant a licence to its third-party texts.
