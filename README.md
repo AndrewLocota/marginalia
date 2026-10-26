@@ -4,9 +4,15 @@ A small offline Android app for maxims and aphorisms, with a resizable home-scre
 
 Inspired by [Adagia](https://readadagia.com). Marginalia is an independent project, **not an official Adagia app**, and is not affiliated with or endorsed by Adagia.
 
+## Download and install
+
+**[Download the Android app — Marginalia 1.99 (302 KB)](https://github.com/AndrewLocota/marginalia/releases/download/v1.99/Marginalia-1.99-build13.apk)**
+
+Open that link on your Android phone, download the APK, and tap it to install. No coding or GitHub account needed. **[Step-by-step installation and widget setup](INSTALL.md)** · [Release page](https://github.com/AndrewLocota/marginalia/releases/tag/v1.99)
+
 ## Status
 
-**Private test build: v1.99, build 13.** There is no store release. This repository contains source code and the Gradle wrapper, not APKs, demo media or release assets. Emulator checks are not evidence of physical-phone performance; no physical-device frame-rate or compatibility guarantee is made.
+**GitHub release: v1.99, build 13.** This is an early release, not a Play Store release. The installable APK is attached to the GitHub release; the source tree contains code and the Gradle wrapper, not binaries or demo media. Emulator checks are not evidence of physical-phone performance; no physical-device frame-rate or compatibility guarantee is made.
 
 The working anthology contains 1,643 passages attributed to 95 thinkers, with a 316-passage selected-maxims subset. These are Marginalia's own current data counts. **The full anthology is not cleared for public redistribution.** Modern works and translations need further review; see [QUOTE-RIGHTS.md](QUOTE-RIGHTS.md). The owner has approved public source visibility; that does not establish redistribution rights for the anthology.
 
