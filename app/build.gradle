@@ -1,0 +1,22 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'app.marginalia'
+    compileSdk 37
+    defaultConfig {
+        applicationId 'app.marginalia'
+        minSdk 26
+        targetSdk 36
+        versionCode 13
+        versionName '1.99'
+        testInstrumentationRunner project.hasProperty('storageProbe') ? 'app.marginalia.StorageProbe' : 'app.marginalia.SmokeTests'
+    }
+    buildTypes {
+        release { minifyEnabled true; shrinkResources true; proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro' }
+    }
+    compileOptions { sourceCompatibility JavaVersion.VERSION_17; targetCompatibility JavaVersion.VERSION_17 }
+}
+
+// Optional local release signing stays outside version control.
+def localSigning = rootProject.file("signing/release.gradle")
+if (localSigning.exists()) { apply from: localSigning }

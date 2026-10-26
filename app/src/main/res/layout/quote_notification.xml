@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Android may allow only 48dp for collapsed custom content. Use wrapping
+     and text fitting rather than a one-line preview. -->
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/notification_quote"
+    style="@android:style/TextAppearance.Material.Notification"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:gravity="center_vertical"
+    android:includeFontPadding="false"
+    android:maxLines="4"
+    android:ellipsize="end"
+    android:autoSizeTextType="uniform"
+    android:autoSizeMinTextSize="11sp"
+    android:autoSizeMaxTextSize="15sp"
+    android:autoSizeStepGranularity="1sp" />

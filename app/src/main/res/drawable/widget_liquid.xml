@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Translucent material, reflective rim, inner bevel and soft highlights.
+     Native drawables scale with the host; no wallpaper capture or frame loop. -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item><shape><corners android:radius="26dp"/>
+        <gradient android:angle="315" android:startColor="#CDE9F7FF" android:centerColor="#31496072" android:endColor="#8ADEF5FF"/>
+    </shape></item>
+    <item android:left="1dp" android:top="1dp" android:right="1dp" android:bottom="1dp"><shape><corners android:radius="25dp"/>
+        <gradient android:angle="270" android:startColor="#84435563" android:centerColor="#6B13212D" android:endColor="#87313F51"/>
+    </shape></item>
+    <item android:left="2dp" android:top="2dp" android:right="2dp" android:bottom="2dp"><shape><corners android:radius="24dp"/>
+        <gradient android:type="radial" android:gradientRadius="240dp" android:centerX="0.08" android:centerY="0" android:startColor="#32FFFFFF" android:centerColor="#09FFFFFF" android:endColor="#00FFFFFF"/>
+        <stroke android:width="1dp" android:color="#16FFFFFF"/>
+    </shape></item>
+    <item android:left="3dp" android:top="3dp" android:right="3dp" android:bottom="3dp"><shape><corners android:radius="23dp"/>
+        <gradient android:type="radial" android:gradientRadius="180dp" android:centerX="1" android:centerY="1" android:startColor="#1BA7DDFF" android:endColor="#00A7DDFF"/>
+    </shape></item>
+</layer-list>

@@ -1,0 +1,39 @@
+# Android and Gradle output
+.gradle/
+**/build/
+local.properties
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+*.hprof
+*.log
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Signing and credentials
+signing/
+*.jks
+*.keystore
+*.p12
+*.pfx
+key.properties
+keystore.properties
+.env
+.env.*
+
+# IDE / machine files
+.idea/
+*.iml
+.DS_Store
+*.swp
+__pycache__/
+*.pyc
+
+# Local production assets, research and review output
+/deliverables/
+/.tools/
+/research/
+/editorial/

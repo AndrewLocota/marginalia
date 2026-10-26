@@ -1,0 +1,220 @@
+MARGINALIA · SOURCES AND EDITORIAL NOTES
+
+The selected collection focuses on knowledge, power, institutions, history, human nature, agency and limits. The full historical anthology remains available.
+
+Every passage carries an edition, locator and link to the source text or a clearly identified excerpt. Text-fragment links highlight passages in browsers that support them; otherwise use the printed locator. External reading requires a browser and internet connection. The app itself works offline.
+
+Source notes identify dramatic or fictional speakers, reported sayings, uncertain authorship, and excerpts from longer sentences. These are perspectives to examine, not claims endorsed by the app.
+
+Whitespace and typographic emphasis are normalized. Quotation excerpts may capitalize the initial letter and end at a clause boundary; such changes are noted. Vico, Pessoa and Steinhardt use explicitly labelled editorial English translations with their source wording.
+
+Modern works are represented by brief excerpts, not by redistributed full books. Historical editions are drawn chiefly from Project Gutenberg, the Internet Classics Archive, Perseus, and Wikisource. Publisher and author-foundation excerpts are identified individually.
+
+EDITIONS IN THE SELECTED COLLECTION
+
+Alexis de Tocqueville — Democracy in America, vol. II — Henry Reeve (historical English edition)
+Aristotle — Politics — Benjamin Jowett (1885)
+Arnold J. Toynbee — A Study of History — English; challenge-and-response excerpt reproduced by Panarchy
+Arthur C. Clarke — Profiles of the Future — Original English; quotation reproduced by the Arthur C. Clarke Foundation
+Arthur de Gobineau — The Inequality of Human Races — Adrian Collins (1915)
+Ayn Rand — For the New Intellectual · Galt’s Speech — Original English (1961); authorized excerpt in Ayn Rand Lexicon
+Caesar Augustus — Suetonius, The Life of Augustus — Alexander Thomson; R. Worthington edition (1883)
+Democritus — Fragments · Source Book in Ancient Philosophy — Charles M. Bakewell, editor (1907)
+Diogenes — Diogenes Laertius, Lives and Opinions of Eminent Philosophers — C. D. Yonge (1853)
+Edward Gibbon — The History of the Decline and Fall of the Roman Empire — Original English (1776–1789)
+Epictetus — The Golden Sayings of Epictetus — Hastings Crossley (1903)
+Epicurus — Principal Doctrines — Robert Drew Hicks (1925)
+Euripides — Medea — E. P. Coleridge (1891)
+Fernando Pessoa — The Book of Disquiet — Marginalia editorial translation from Portuguese
+François Guizot — General History of Civilisation in Europe — Chambers edition (1848); translator unnamed in this edition
+François de La Rochefoucauld — Reflections; or, Sentences and Moral Maxims — J. W. Willis Bund & J. Hain Friswell (1871)
+Friedrich Hayek — The Use of Knowledge in Society — Original English (1945)
+Friedrich Nietzsche — Beyond Good and Evil — Helen Zimmern (1909)
+Fyodor Dostoevsky — Notes from Underground — Constance Garnett (1918)
+Giambattista Vico — The New Science — Marginalia editorial translation from Italian; 1744 text, Nicolini edition (1928)
+Hesiod — Works and Days — Hugh G. Evelyn-White (1914)
+Homer — Odyssey — Samuel Butler (1900)
+Isocrates — To Demonicus — George Norlin (1928)
+Johann Wolfgang von Goethe — Maxims and Reflections — T. Bailey Saunders (1906)
+Julius Caesar — The Gallic War — W. A. McDevitte (Everyman edition, 1915)
+Leo Tolstoy — War and Peace — Louise and Aylmer Maude (1922–1923)
+Ludwig von Mises — Human Action — Original English (1949)
+Marcus Aurelius — Meditations — Meric Casaubon (1634)
+Max Weber — Politics as a Vocation — H. H. Gerth and C. Wright Mills (1946)
+Michel de Montaigne — Essays — Charles Cotton; edited by W. C. Hazlitt (1877)
+Nick Land — Fanged Noumena · Meltdown — Original English; Urbanomic publisher excerpt (2011 edition)
+Nicolae Steinhardt — Dăruind vei dobândi (Giving, You Shall Receive) — Marginalia editorial translation from Romanian
+Oswald Spengler — The Decline of the West, vol. I — Charles Francis Atkinson (1926)
+Plato — Republic — Benjamin Jowett (1892)
+Plutarch — Parallel Lives · Alexander — John Dryden translation, revised by Arthur Hugh Clough (1859)
+Saint Augustine — Confessions — E. B. Pusey (1838)
+Slavoj Žižek — Violence · book discussion — Original English; spoken discussion, Politics and Prose (2008)
+Socrates — Plato, Apology — Benjamin Jowett (1892)
+Sophocles — Antigone — R. C. Jebb (1891)
+Theodor Mommsen — The History of Rome, book I — William Purdie Dickson (historical English edition)
+Thomas Hobbes — Leviathan — Original English (1651)
+Thucydides — History of the Peloponnesian War — Richard Crawley (1874)
+Xenophon — Memorabilia — H. G. Dakyns (1897)
+
+EXPANDED CONCEPTUAL COLLECTION
+
+These excerpts foreground explanations of perception, knowledge, power, institutions and agency. The reading notes are Marginalia interpretations, not the quoted authors’ words. Sources distinguish reported speeches and fictional dialogue from an author’s own prose. Familiar quotations retained in the anthology need not be part of the selected rotation.
+
+Albert Camus — The Myth of Sisyphus — Justin O’Brien (1955)
+Alexander Hamilton — The Federalist Papers — Original English (1788)
+Aristophanes — The Clouds — William James Hickie (1853)
+Arthur Schopenhauer — Essays · On Human Nature — T. Bailey Saunders
+Baltasar Gracián — The Art of Worldly Wisdom — Joseph Jacobs (1892)
+Baruch Spinoza — Ethics — R. H. M. Elwes (1883)
+Blaise Pascal — Pensées — W. F. Trotter (1910)
+Carl Schmitt — Political Theology — George Schwab (1985; University of Chicago Press edition 2005)
+Cicero — On Duties (De Officiis) — Walter Miller (1913)
+Cyrus the Great — Cyropaedia — H. G. Dakyns (1909)
+Dante Alighieri — Divine Comedy · Paradiso — Henry Wadsworth Longfellow (1867)
+David Hume — An Enquiry Concerning Human Understanding — Original English (1748); linked numbered edition
+Demosthenes — Public Orations — A. W. Pickard-Cambridge (1912)
+Desiderius Erasmus — The Praise of Folly — John Wilson (1668)
+Edmund Burke — Reflections on the Revolution in France — Original English (1790); Works, vol. III
+Emil Cioran — The Trouble with Being Born — Richard Howard; Penguin publisher sample (2020 edition)
+Ernst Jünger — Total Mobilization — English excerpt reproduced by University of Chicago Press (2019); translator not named in excerpt
+Francis Bacon — Novum Organum — English edition edited by Joseph Devey; P. F. Collier & Son (1902)
+Franz Kafka — The Trial — David Wyllie (English translation)
+François-René de Chateaubriand — Memoirs from Beyond the Tomb — Alexander Teixeira de Mattos (1902)
+G. W. F. Hegel — The Phenomenology of Mind — J. B. Baillie; Marxists Internet Archive edition
+George Orwell — Politics and the English Language — Original English (1946); Orwell Foundation text
+Hesiod — Works and Days — Hugh G. Evelyn-White (1914)
+Horace — Epistles — Christopher Smart; revised by Theodore Alois Buckley
+Immanuel Kant — Critique of Pure Reason — J. M. D. Meiklejohn (1855)
+Jean-Jacques Rousseau — The Social Contract — G. D. H. Cole (1913)
+Johann Gottlieb Fichte — The Vocation of Man — William Smith (1848)
+Johann Wolfgang von Goethe — Maxims and Reflections — T. Bailey Saunders (1906)
+John Locke — Second Treatise of Government — Original English (1689)
+John Stuart Mill — On Liberty — Original English (1859)
+Karl Jaspers — On My Philosophy — English excerpt in Walter Kaufmann’s edited anthology; translator not identified on linked page
+Karl Popper — Conjectures and Refutations — Original English (1963); classroom reprint of chapter 1
+Leo Strauss — Natural Right and History — Original English (1953); scholarly excerpt
+Leonardo da Vinci — The Notebooks of Leonardo da Vinci — Jean Paul Richter (1883)
+Marcel Proust — Swann’s Way — C. K. Scott Moncrieff (1922)
+Martin Heidegger — The Question Concerning Technology — William Lovitt (1977)
+Max Stirner — The Ego and His Own — Steven T. Byington (1907)
+Milton Friedman — The Methodology of Positive Economics — Original English (1953); Essays in Positive Economics, 1966 printing
+Montesquieu — The Spirit of Laws — Editorial translation from the French; original supplied
+Niccolò Machiavelli — The Prince — W. K. Marriott (1908)
+Ovid — Metamorphoses — Henry T. Riley (1851)
+Parmenides — On Nature · surviving fragments — John Burnet (1908)
+Pericles — History of the Peloponnesian War — Richard Crawley (1874)
+René Descartes — Discourse on the Method — John Veitch; linked Project Gutenberg edition
+Scipio Africanus — Sayings of Kings and Commanders — Frank Cole Babbitt (1931)
+Seneca — On Benefits — Aubrey Stewart (1887)
+Stendhal — On Love — Philip Sidney Woolf and Cecil N. Sidney Woolf (1915; reprinted 1920)
+Søren Kierkegaard — Fear and Trembling — Lee M. Hollander (1923), in Selections from the Writings of Kierkegaard
+Tacitus — Germania — Revised Oxford translation, edition introduced by Edward Brooks, Jr.
+Thomas Aquinas — Summa Theologica, Part I — Fathers of the English Dominican Province; Benziger edition
+Thomas Carlyle — On Heroes, Hero-Worship, and the Heroic in History — Original English (1841)
+Virgil — Aeneid — John Dryden (1697)
+Voltaire — A Philosophical Dictionary, vol. I — William F. Fleming (1901)
+William Shakespeare — Measure for Measure — Original English
+
+
+MINIMUM THREE EXPANSION — COMPLETE
+
+161 source-checked additions bring the selected collection to 316 passages across 95 thinkers, each with at least three selected passages. Reading notes are Marginalia interpretations, kept separate from quotations. The full anthology has 1,643 passages. Exact wording is checked against the linked edition or identified excerpt; reported and fictional speakers, edited clauses and editorial translations are identified.
+
+Albert Camus — The Myth of Sisyphus — Justin O’Brien (1955)
+Alexander Hamilton — The Federalist Papers — Original English (1788)
+Alexis de Tocqueville — Democracy in America, vol. II — Henry Reeve (historical English edition)
+Aristophanes — The Clouds — William James Hickie (1853)
+Aristotle — Politics — Benjamin Jowett (1885)
+Arnold J. Toynbee — A Study of History — English; challenge-and-response excerpt reproduced by Panarchy
+Arthur C. Clarke — The Light of Other Days · with Stephen Baxter — Original English (2000)
+Arthur Schopenhauer — Essays · Government — T. Bailey Saunders
+Arthur de Gobineau — The Inequality of Human Races — Adrian Collins (1915)
+Ayn Rand — Introduction to Objectivist Epistemology — Original English (1966–1967)
+Ayn Rand — The Romantic Manifesto — Original English (1969)
+Baltasar Gracián — The Art of Worldly Wisdom — Joseph Jacobs (1892)
+Baruch Spinoza — Ethics — R. H. M. Elwes (1883)
+Blaise Pascal — Pensées — W. F. Trotter (1910)
+Caesar Augustus — Suetonius, The Life of Augustus — Alexander Thomson; R. Worthington edition (1883)
+Carl Schmitt — Political Theology — George Schwab (1985; University of Chicago Press edition 2005)
+Cicero — On Duties (De Officiis) — Walter Miller (1913)
+Cyrus the Great — Cyropaedia — H. G. Dakyns (1909)
+Dante Alighieri — Divine Comedy · Paradiso — Henry Wadsworth Longfellow (1867)
+Dante Alighieri — Divine Comedy · Purgatorio — Henry Wadsworth Longfellow (1867)
+David Hume — An Enquiry Concerning Human Understanding — Original English (1748); linked numbered edition
+Democritus — Fragments · Source Book in Ancient Philosophy — Charles M. Bakewell, editor (1907)
+Demosthenes — Public Orations — A. W. Pickard-Cambridge (1912)
+Desiderius Erasmus — The Praise of Folly — John Wilson (1668)
+Diogenes — Diogenes Laertius, Lives and Opinions of Eminent Philosophers — C. D. Yonge (1853)
+Edmund Burke — Reflections on the Revolution in France — Original English (1790); Works, vol. III
+Edward Gibbon — The History of the Decline and Fall of the Roman Empire — Original English (1776–1789)
+Emil Cioran — The Trouble with Being Born — Richard Howard; Penguin publisher sample (2020 edition)
+Ernst Jünger — The Forest Passage — Thomas Friese (2013)
+Euripides — Medea — E. P. Coleridge (1891)
+Fernando Pessoa — The Book of Disquiet — Marginalia editorial translation from Portuguese
+Francis Bacon — Novum Organum — English edition edited by Joseph Devey; P. F. Collier & Son (1902)
+Franz Kafka — The Trial — David Wyllie (English translation)
+François Guizot — General History of Civilisation in Europe — Chambers edition (1848); translator unnamed in this edition
+François-René de Chateaubriand — Memoirs from Beyond the Tomb — Alexander Teixeira de Mattos (1902)
+Friedrich Hayek — The Use of Knowledge in Society — Original English (1945)
+Fyodor Dostoevsky — Notes from Underground — Constance Garnett (1918)
+G. W. F. Hegel — The Phenomenology of Mind — J. B. Baillie; Marxists Internet Archive edition
+George Orwell — Politics and the English Language — Original English (1946); Orwell Foundation text
+Giambattista Vico — The New Science — Marginalia editorial translation from Italian (1744 text; Nicolini edition, 1928)
+Homer — Odyssey — Samuel Butler (1900)
+Horace — Epistles — Christopher Smart; revised by Theodore Alois Buckley
+Horace — Odes — Christopher Smart; revised by Theodore Alois Buckley
+Immanuel Kant — Critique of Pure Reason — J. M. D. Meiklejohn (1855)
+Isocrates — To Demonicus — George Norlin (1928)
+Jean-Jacques Rousseau — Discourse on the Origin of Inequality — G. D. H. Cole (1913)
+Jean-Jacques Rousseau — The Social Contract — G. D. H. Cole (1913)
+Johann Gottlieb Fichte — The Vocation of Man — William Smith (1848)
+John Locke — Second Treatise of Government — Original English (1689)
+John Stuart Mill — On Liberty — Original English (1859)
+Julius Caesar — The Civil War — W. A. McDevitte (Everyman edition, 1915)
+Julius Caesar — The Gallic War — W. A. McDevitte (Everyman edition, 1915)
+Karl Jaspers — On My Philosophy — English excerpt in Walter Kaufmann’s edited anthology; translator not identified on linked page
+Karl Popper — Conjectures and Refutations — Original English (1963); classroom reprint of chapter 1
+Leo Strauss — Liberal Education and Responsibility — Original English (1962)
+Leo Strauss — What Is Liberal Education? — Original English · address of 6 June 1959
+Leo Tolstoy — War and Peace — Louise and Aylmer Maude (1922–1923)
+Leonardo da Vinci — The Notebooks of Leonardo da Vinci — Jean Paul Richter (1883)
+Ludwig von Mises — Human Action — Original English (1949)
+Marcel Proust — Swann’s Way — C. K. Scott Moncrieff (1922)
+Martin Heidegger — The Question Concerning Technology — William Lovitt (1977)
+Max Stirner — The Ego and His Own — Steven T. Byington (1907)
+Max Weber — Politics as a Vocation — Allison L. Hurst (2018), adapted from Gerth and Mills (1946)
+Michel de Montaigne — Essays — Charles Cotton; edited by W. C. Hazlitt (1877)
+Milton Friedman — The Methodology of Positive Economics — Original English (1953); Essays in Positive Economics, 1966 printing
+Montesquieu — The Spirit of Laws — Marginalia editorial translation from French; Laboulaye edition
+Niccolò Machiavelli — The Prince — W. K. Marriott (1908)
+Nick Land — Fanged Noumena · Meltdown — Original English; Urbanomic publisher excerpt (2011 edition)
+Nick Land — Odds and Ends: On Ultimate Risk — Original English (2014)
+Nicolae Steinhardt — Dăruind vei dobândi (Giving, You Shall Receive) — Marginalia editorial translation from Romanian
+Oswald Spengler — The Decline of the West, vol. I — Charles Francis Atkinson (1926)
+Ovid — Metamorphoses — Henry T. Riley (1851)
+Parmenides — On Nature · surviving fragments — John Burnet (1908)
+Pericles — History of the Peloponnesian War — Richard Crawley (1874)
+Plato — Republic — Benjamin Jowett (1892)
+Plutarch — Parallel Lives · Alexander — John Dryden translation, revised by Arthur Hugh Clough (1859)
+René Descartes — Discourse on the Method — John Veitch; linked Project Gutenberg edition
+Saint Augustine — Confessions — E. B. Pusey (1838)
+Scipio Africanus — Sayings of Kings and Commanders — Frank Cole Babbitt (1931)
+Seneca — On Benefits — Aubrey Stewart (1887)
+Slavoj Žižek — Some Bewildered Clarifications: A Response to Noam Chomsky — Original English (25 July 2013)
+Socrates — Plato, Apology — Benjamin Jowett (1892)
+Sophocles — Antigone — R. C. Jebb (1891)
+Stendhal — On Love — Philip Sidney Woolf and Cecil N. Sidney Woolf (1915; linked 1920 edition)
+Søren Kierkegaard — Fear and Trembling — Lee M. Hollander (1923), in Selections from the Writings of Kierkegaard
+Søren Kierkegaard — Preparation for a Christian Life (Practice in Christianity) — Lee M. Hollander (1923), in Selections from the Writings of Kierkegaard
+Tacitus — Agricola — Revised Oxford translation, edition introduced by Edward Brooks, Jr.
+Tacitus — Germania — Revised Oxford translation, edition introduced by Edward Brooks, Jr.
+Theodor Mommsen — The History of Rome, book I — William Purdie Dickson (historical English edition)
+Thomas Aquinas — Summa Theologica, Part I — Fathers of the English Dominican Province; Benziger edition
+Thomas Carlyle — On Heroes, Hero-Worship, and the Heroic in History — Original English (1841)
+Thomas Hobbes — Leviathan — Original English (1651)
+Virgil — Aeneid — John Dryden (1697)
+Voltaire — A Philosophical Dictionary, vol. I — William F. Fleming (1901)
+William Shakespeare — Measure for Measure — Original English
+Xenophon — Memorabilia — H. G. Dakyns (1897)
+
+Weber: Allison L. Hurst, Classical Sociological Theory and Foundations of American Sociology (2018), adapted from Gerth and Mills. Source: https://open.oregonstate.education/sociologicaltheory/chapter/politics-as-a-vocation/ . Teaching edition licensed CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/ . These two excerpts retain the edition’s wording.
